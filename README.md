@@ -1,1 +1,1 @@
-# zustand-demo
+# zustand-playground
